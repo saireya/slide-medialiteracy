@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="tv-time"><article>
+	<author>関根 智江</author>
+	<title>年層による差がさらに広がるテレビ視聴――2000〜2011年の全国個人視聴率調査から</title>
+	<journal>放送研究と調査</journal>
+	<year>2011</year>
+	<month>12</month>
+	<url>https://www.nhk.or.jp/bunken/summary/research/report/2011_12/20111203.pdf</url>
+</article></entry>
+
+<entry id="tvasahi"><misc>
+	<author>テレビ朝日</author>
+	<title>文科省の運動能力調査 小6のボール投げ過去最低</title>
+	<year>2014</year>
+	<url>http://news.tv-asahi.co.jp/news_society/articles/000036607.html</url>
+</misc></entry>
+
+<entry id="mext"><misc>
+	<author>文部科学省</author>
+	<title>平成24年度体力・運動能力調査報告書 体力・運動能力の年次推移 青少年(6歳～19歳)</title>
+	<year>2013</year>
+	<url>http://www.mext.go.jp/component/b_menu/other/__icsFiles/afieldfile/2013/10/15/1340102_2.pdf</url>
+</misc></entry>
+
+<entry id="nikkei"><misc>
+	<author>日本経済新聞</author>
+	<title>子供の運動能力「跳」高「投」低 50年の変化に差</title>
+	<url>http://www.nikkei.com/article/DGXLASDG12H02_S4A011C1CR8000</url>
+</misc></entry>
+
+<entry id="sampling"><misc>
+	<author>日経リサーチ</author>
+	<title>調査の方法</title>
+	<url>http://www.nikkei-r.co.jp/phone/method.html</url>
+</misc></entry>
+
+<entry id="sb"><misc>
+	<author>ソフトバンクモバイル</author>
+	<title>電波改善進行中</title>
+	<url>http://mb.softbank.jp/mb/special/network/pc</url>
+</misc></entry>
+
+<entry id="takeo"><misc>
+	<author>武雄市</author>
+	<title>図書館・歴史資料館に関する市民アンケートの結果</title>
+	<url>http://www.city.takeo.lg.jp/gabai_news/2012/09/post-519.html</url>
+</misc></entry>
+
+<entry id="asahi"><misc>
+	<author>朝日新聞</author>
+	<title>親の経済力、学力左右 授業料免除率、福島県立高で最大１０倍の差</title>
+	<url>http://www.asahi.com/edu/student/news/TKY201009130121.html</url>
+</misc></entry>
+
+
+
+</file>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
+<log xmlns:xi="http://www.w3.org/2003/XInclude" title="メディア・リテラシー" by="" slide="1" embed="1">
+<article>
+<s h="メディア・リテラシー(p.14)">
+<frame title="\insertsection">
+<block class="example" title="Q1">
+	この動画を見た視聴者は、どういう印象を持つか?<br/>
+	※動画中の<em>どの表現から</em>そのような印象を持つのか、<em>根拠</em>も示すこと
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block class="example" title="Q2">
+	動画は事実を適切に伝えているか? 伝えていないとすれば、どのような点が不適切か?
+</block>
+
+<block title="復習: メディアの性質">
+	(現実イメージ) $\neq$ (現実)
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block class="example" title="Q3">
+	発信者がこのような動画に編集した<em>意図</em>は何か?
+</block>
+
+<block title="復習: メディアの性質">
+	<ul>
+		<li>(表現) = (情報) + (意図)</li>
+		<li>理解は、情報と送り手の意図を区別できるときに可能</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="tv-time.png" scale=".3"/>
+</frame>
+
+<frame title="\insertsection">
+<block class="alert">
+	メディアを<em>「読み書き」</em>する能力
+	<ul>
+		<li>情報の<alert><ruby r="しんぴょう">信憑</ruby>性</alert>や送り手の<alert>意図</alert>を<alert>客観的・批判的</alert>に捉える能力</li>
+		<li>相手を意識した<alert>表現</alert>をし、相手の反応に応じた<alert>情報発信</alert>を行う能力</li>
+	</ul>
+</block>
+
+<block title="復習: メディアの性質">
+	<ul>
+		<li>(現実イメージ) $\neq$ (現実)</li>
+		<li>(表現) = (情報) + (意図)</li>
+		<li>理解は、情報と送り手の意図を区別できるときに可能</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="情報の信憑性">
+<block class="alert">
+	その情報は信頼できるか?
+	<ul>
+		<li>信頼できる<alert>情報源(出典)</alert>があるか? 出典と異なる記述はないか?</li>
+		<li><em>サンプリング</em>の方法は適切か? <alert>偏り(bias)</alert>はないか?</li>
+	</ul>
+</block>
+
+<block class="example" title="Q">
+	<ul>
+		<li>Wikipediaは出典として適切か?</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="情報の信憑性">
+<block title="Q" class="example">
+	次の方法(RDD方式)で電話番号を抽出して行う世論調査の問題点は何か?
+	<ol>
+		<li>全国で稼動中の固定電話の局番（市外局番＋市内局番）に、加入者番号（0000～9999）を付加した番号集合を抽出枠とします。</li>
+		<li>電話番号局番を小さい順に配列した上で、系統抽出法で約1万6千件の電話番号の属する局番を無作為抽出します。</li>
+		<li>抽出された局番からそれぞれ１個の加入番号を単純無作為抽出します。</li>
+		<li>抽出した電話番号標本のうち現在使われていない番号を除去し、平均的に4000件の稼動番号が得られます。</li>
+		<li>それらの番号に電話をかけた結果、約1400件が世帯であることが経験的に期待できます。この世帯のうち有権者のいることが確認された世帯が調査対象となります。</li>
+	</ol>
+	(日経リサーチ「日経電話世論調査 &gt; 調査の方法」より)
+</block>
+</frame>
+
+<frame title="情報の信憑性">
+<block title="Q" class="example">
+	次の方法(RDD方式)で電話番号を抽出して行う世論調査の問題点は何か?
+	<ol>
+		<li>全国で稼動中の<alert>固定電話</alert>の局番（市外局番＋市内局番）に、加入者番号（0000～9999）を付加した番号集合を抽出枠とします。</li>
+	</ol>
+	<img src="sampling.png" scale=".55"/>
+	(日経リサーチ「日経電話世論調査 &gt; 調査の方法」より)
+</block>
+</frame>
+
+<frame title="情報の信憑性">
+<block title="Q" class="example">
+	次の方法(RDD方式)で電話番号を抽出して行う世論調査の問題点は何か?
+	<ol>
+		<li>全国で稼動中の<alert>固定電話</alert>の局番（市外局番＋市内局番）に、加入者番号（0000～9999）を付加した番号集合を抽出枠とします。</li>
+	</ol>
+	<img src="sampling2.png" scale=".45"/>
+	(日経リサーチ「日経電話世論調査 &gt; 調査の方法」より)
+</block>
+</frame>
+
+<frame title="送り手の意図">
+<block class="alert">
+	送り手の意図は何か?
+	<ul>
+		<li>視点や価値観が偏っていないか?</li>
+		<li><alert>印象操作</alert>がされていないか?</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="送り手の意図">
+	<img src="sb.png" scale=".7"/>
+</frame>
+
+<frame title="送り手の意図">
+	<img src="fuji.jpg" scale=".25"/>
+</frame>
+
+<frame title="送り手の意図">
+	<img src="takeo.jpg" scale=".4"/>
+</frame>
+
+<frame title="送り手の意図">
+<block title="グラフによる表現(p.130-135)">
+	<ul>
+		<li>棒グラフ<br/>
+			棒の<em>長さ</em>により、値の<alert>大きさ・量</alert>を表現</li>
+		<li>折れ線グラフ<br/>
+			直線の<em>傾き</em>により、値の<alert>変化</alert>を表現</li>
+		<li>円グラフ・帯グラフ<br/>
+			扇型や長方形の<em>面積</em>により、値の全体に占める<alert>割合</alert>を表現</li>
+		<li mark="※">この関係を歪めるグラフ(例:「<em>3Dグラフ</em>」)は使わない</li>
+	</ul>
+</block>
+</frame>
+
+
+<frame title="相関関係と因果関係">
+<block class="alert">
+	<alert>相関関係 $\neq$ 因果関係</alert>
+	<ul>
+		<li><alert>相関関係</alert>: 2つの量の間にある、何らかの関係</li>
+		<li><alert>因果関係</alert>: 2つの量の間にある、<em>原因</em>と<em>結果</em>の関係</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="相関関係と因果関係">
+<block title="朝日新聞より">
+	<p><cmd name="hspace"><parm>1\zw</parm></cmd>経済的理由などで授業料免除を受ける高校生の比率は、偏差値の高い学校ほど低い傾向にある――。
+	朝日新聞が福島県教育委員会に、情報公開請求した同県の県立高校別の授業料免除実績などから、そんな実態が浮かんだ。
+	教育格差の研究者は「学力が家庭の豊かさの影響を受けている表れで、同様の現象は全国的にみられるはずだ」とみている。</p><br/>
+	(「親の経済力、学力左右　授業料免除率、福島県立高で最大10倍の差」)
+</block>
+
+<img src="asahi.jpg" scale=".75"/>
+<!--TODO: 変数間の関係性の図-->
+</frame>
+
+<frame title="相関関係と因果関係">
+<img src="baby.jpg" scale=".5"/>
+</frame>
+</s>
+</article>
+</log>
