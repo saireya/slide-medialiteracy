@@ -49,12 +49,22 @@
 	<url>http://www.city.takeo.lg.jp/gabai_news/2012/09/post-519.html</url>
 </misc></entry>
 
+<entry id="fujitv"><misc>
+	<author>フジテレビ</author>
+	<title>FNNスーパーニュース 目立つ"若い世代"の不祥事 警察に迫られる対策</title>
+	<year>2012</year>
+</misc></entry>
+
 <entry id="asahi"><misc>
 	<author>朝日新聞</author>
 	<title>親の経済力、学力左右 授業料免除率、福島県立高で最大１０倍の差</title>
 	<url>http://www.asahi.com/edu/student/news/TKY201009130121.html</url>
 </misc></entry>
 
+<entry id="stork"><misc>
+	<title>Anzahl Störche und Geburten in Deutschland</title>
+	<url>http://www.motor-talk.de/bilder/warum-benzinpreise-in-wirklichkeit-immer-noch-preiswert-sind-g45736413/stoerche-geburten-i204391169.html</url>
+</misc></entry>
 
 
 </file>
