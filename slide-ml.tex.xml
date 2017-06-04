@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
-<log xmlns:xi="http://www.w3.org/2003/XInclude" title="メディア・リテラシー" by="" slide="1" embed="1" bib="slide-ml" biball="1">
+<log xmlns:xi="http://www.w3.org/2003/XInclude" title="意図と介入" by="" slide="1" embed="1" bib="slide-ml" biball="1">
 <article>
+<s h="意図">
+<frame title="\insertsection">
+<block class="alert" title="意図">
+	コミュニケーションを行う<em>目的</em><br/>
+	<ul>
+		<li>「○○させるため(にコミュニケーションを行う)」</li>
+		<li>視点や価値観が偏っていないか?</li>
+		<li><em>印象操作</em>がされていないか?</li>
+	</ul>
+</block>
+
+<block title="復習: メディアの性質">
+	<ul>
+		<li>(表現) = (情報) + (意図)</li>
+		<li>理解は、情報と送り手の意図を区別できるときに可能</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+	<img src="sb.png" scale=".7"/>
+</frame>
+
+<frame title="\insertsection">
+	<img src="fuji.jpg" scale=".25"/>
+</frame>
+
+<frame title="\insertsection">
+	<img src="takeo.jpg" scale=".4"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="グラフによる表現(p.130-135)">
+	<ul>
+		<li>棒グラフ<br/>
+			棒の<em>長さ</em>により、値の<alert>大きさ・量</alert>を表現</li>
+		<li>折れ線グラフ<br/>
+			直線の<em>傾き</em>により、値の<alert>変化</alert>を表現</li>
+		<li>円グラフ・帯グラフ<br/>
+			扇型や長方形の<em>面積</em>により、値の全体に占める<alert>割合</alert>を表現</li>
+		<li mark="※">この関係を歪めるグラフ(例:「<em>3Dグラフ</em>」)は使わない</li>
+	</ul>
+</block>
+</frame>
+</s>
+
 <s h="メディア・リテラシー(p.14)">
 <frame title="\insertsection">
 <block class="example" title="Q1">
@@ -107,43 +153,6 @@
 </block>
 </frame>
 
-<frame title="送り手の意図">
-<block class="alert">
-	送り手の意図は何か?
-	<ul>
-		<li>視点や価値観が偏っていないか?</li>
-		<li><alert>印象操作</alert>がされていないか?</li>
-	</ul>
-</block>
-</frame>
-
-<frame title="送り手の意図">
-	<img src="sb.png" scale=".7"/>
-</frame>
-
-<frame title="送り手の意図">
-	<img src="fuji.jpg" scale=".25"/>
-</frame>
-
-<frame title="送り手の意図">
-	<img src="takeo.jpg" scale=".4"/>
-</frame>
-
-<frame title="送り手の意図">
-<block title="グラフによる表現(p.130-135)">
-	<ul>
-		<li>棒グラフ<br/>
-			棒の<em>長さ</em>により、値の<alert>大きさ・量</alert>を表現</li>
-		<li>折れ線グラフ<br/>
-			直線の<em>傾き</em>により、値の<alert>変化</alert>を表現</li>
-		<li>円グラフ・帯グラフ<br/>
-			扇型や長方形の<em>面積</em>により、値の全体に占める<alert>割合</alert>を表現</li>
-		<li mark="※">この関係を歪めるグラフ(例:「<em>3Dグラフ</em>」)は使わない</li>
-	</ul>
-</block>
-</frame>
-
-
 <frame title="相関関係と因果関係">
 <block class="alert">
 	<alert>相関関係 $\neq$ 因果関係</alert>
@@ -167,6 +176,33 @@
 
 <frame title="相関関係と因果関係">
 <img src="baby.jpg" scale=".5"/>
+</frame>
+</s>
+
+<s h="介入">
+<frame title="\insertsection">
+<block class="example" title="Q">
+	何を<em>目的</em>としてコミュニケーションを行うか?
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block class="alert" title="介入">
+	相手に<em>自分の望む行動を起こさせるため</em>に行うコミュニケーション<br/>
+	※<alert>意図</alert>: コミュニケーションを行う<em>目的</em>
+</block>
+
+<block title="介入の例">
+	プレゼンテーション, 教育, 印象操作, 勧誘, 檄文, 指示, 命令
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block class="alert" title="介入の前提">
+	相手に自分が望む行動を確実に起こさせるのは<em>不可能</em><br/>
+	(理解の選択は、相手が主観的に行うため)<br/>
+	⇒ 強引さを相手に感じさせないことが重要
+</block>
 </frame>
 </s>
 </article>
