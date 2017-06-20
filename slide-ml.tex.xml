@@ -204,6 +204,130 @@
 	⇒ 強引さを相手に感じさせないことが重要
 </block>
 </frame>
+
+<s h="「風化」">
+<frame title="\insertsubsection">
+<multicols>
+<column width="5cm">
+<block title="読売新聞より">
+	<p>東日本大震災からしばらくして、自分が住んでいた近くに、昭和三陸津波の石碑があったらしいと知りました。公民館のとなりの、広場のようなところ。<em>よく友達と遊んでいた場所</em>です。行ってみたら、高さ２メートルくらいの石碑が残っていました。(中略)</p>
+	<p><alert>それまで全然気づかなかった</alert>。よく残ってたなと思うと同時に、すごいショックで。後悔しきれなかった。<alert>もっと伝わっていれば、もっと多くの人が助かったのでは</alert>と。</p>
+	<!-- いわゆる「風化」 -->
+</block>
+</column>
+<column width="5cm">
+<img src="sekihi.jpg" scale=".4"/>
+</column>
+</multicols>
+</frame>
+
+<frame title="\insertsubsection">
+<block class="example" title="Q1.">
+	石碑1が「<em>風化</em>」したのはなぜか?
+</block>
+<multicols num="2">
+<block title="大津浪記念碑(岩手県大槌町)碑文">
+	昭和八年三月三日<br/>
+	大津波記念碑<br/>
+	<cmd name="vspace"><parm>1em</parm></cmd>
+	一、地震があったら津波の用心せよ<br/>
+	一、津波が来たら高い所へ逃げよ<br/>
+	一、危険地帯に住居をするな
+</block>
+<img src="sekihi.jpg" scale=".4"/>
+</multicols>
+</frame>
+
+<frame title="\insertsubsection">
+<multicols num="2">
+<block title="大津浪記念碑(岩手県宮古市)碑文">
+	大津波記念碑<br/>
+	<cmd name="vspace"><parm>1em</parm></cmd>
+	高き住居は児孫の和楽<br/>
+	想へ惨禍の大津浪<br/>
+	此処より下に家を建てるな<br/>
+	<cmd name="vspace"><parm>1em</parm></cmd>
+	明治二十九年にも、昭和八年にも<br/>
+	津浪は此処まで来て<br/>
+	部落は全滅し、生存者僅かに<br/>
+	前に二人後に四人のみ<br/>
+	幾歳経るとも要心おせ
+</block>
+<img src="sekihi-aneyoshi-small.jpg" scale=".4"/>
+</multicols>
+</frame>
+
+<frame title="\insertsubsection">
+<multicols num="2">
+<block class="example" title="Q2.">
+	石碑1と石碑2の<em>違い</em>は何か?
+</block>
+<block title="大津浪記念碑(岩手県宮古市)碑文">
+	大津波記念碑<br/>
+	<cmd name="vspace"><parm>1em</parm></cmd>
+	高き住居は児孫の和楽<br/>
+	想へ惨禍の大津浪<br/>
+	此処より下に家を建てるな<br/>
+	<cmd name="vspace"><parm>1em</parm></cmd>
+	明治二十九年にも、昭和八年にも<br/>
+	津浪は此処まで来て<br/>
+	部落は全滅し、生存者僅かに<br/>
+	前に二人後に四人のみ<br/>
+	幾歳経るとも要心おせ
+</block>
+<img src="sekihi-aneyoshi-small.jpg" scale=".4"/>
+</multicols>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="「木碑」">
+	定期的に交換させることで「風化」を防ぐ
+</block>
+
+<multicols>
+<column width="7cm">
+<block title="「津波の記憶、木製の碑に…被災地の10代」(読売新聞2015/3/11)">
+	<p><em>石だと風景の一部に</em>なってしまう。だから木です。木だと腐る。腐るときに記憶に残る。それで<em>交換しにいけば風化しないのでは</em>ないか。４年に１度、交換します。</p>
+	<p>震災のことを忘れてほしくない。町内に、１本だけです。立てすぎても、風景になって忘れられてしまうと思うから。</p>
+</block>
+</column>
+<column width="4cm">
+	<img src="mokuhi2.jpg" scale=".4"/>
+</column>
+</multicols>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="Q3(課題)" class="example">
+	できるだけ意味を潜在化させずに情報を相手に伝えるためには、どうすれば良いか?
+<!--	情報を記号・言語を用いて表現する場合に、留意すべき点は何か?-->
+<!--	危機意識や災害体験の「<em>風化</em>」を防ぐために、どのように情報を提示すれば良いか?-->
+<!--	時代を超えて危機意識や災害体験のような情報を伝えていくために、留意すべき点は何か?-->
+	<ul>
+		<li>締切: 次回の授業時</li>
+		<li>提出先: 「Up &gt; 情報学基礎 &gt; 風化 &gt; 1-x」</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<multicols>
+<column width="7cm">
+<block title="気仙沼市震災復興計画「海と生きる」">
+先人たちはこれまで何度も津波に襲われても、海の可能性を信じて再起を果たしてきた。人智の及ばぬ壮大な力としながらも、<em>海を敵視せず、積極的に関わり合って</em>暮らしてきた。
+それは、単に「海で」生活していたのではなく、人間は自然の一部であることを経験的に体得し、<em>対等の関係を築いて「海と」生活</em>していたとも言える。その態度が<em>自然観や運命観、ひいては死生観</em>となった。
+気仙沼の<em>観念</em>は海にある。
+いまを生きる世代が再び<em>海の可能性</em>を信じ、復興を成し遂げることが犠牲者への供養となり、次世代への希望となろう。
+理念を超えた観念をメッセージ化したものが「<alert>海と生きる</alert>」である。
+</block>
+</column>
+<column width="5cm">
+<img src="karakuwa.jpg" scale=".2"/>
+<img src="port.jpg" scale=".2"/>
+</column>
+</multicols>
+</frame>
+</s>
 </s>
 </article>
 </log>
