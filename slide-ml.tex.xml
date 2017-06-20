@@ -2,7 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
 <log xmlns:xi="http://www.w3.org/2003/XInclude" title="意図と介入" by="" slide="1" embed="1" bib="slide-ml" biball="1">
 <article>
+
 <s h="意図">
+<frame title="\insertsection">
+<block class="example" title="Q.">
+	「理解する」とは?
+</block>
+</frame>
+
 <frame title="\insertsection">
 <block class="alert" title="意図">
 	コミュニケーションを行う<em>目的</em><br/>
@@ -12,10 +19,11 @@
 	</ul>
 </block>
 
-<block title="復習: 意図と表現・理解">
+<block title="意図と表現・理解" class="alert">
+	\[ (\text{情報}) + (\text{意図}) = (\text{表現}) \]
 	<ul>
-		<li>(表現) = (情報) + (意図)</li>
-		<li>理解は、情報と送り手の意図を区別できるときに可能</li>
+		<li><alert>表現の選択</alert>で<em>情報</em>にどんな記号・言語を付加するかは、情報の送り手の<em>意図</em>により決まる</li>
+		<li>適切な<alert>理解の選択</alert>は、表現から<em>情報</em>と送り手の<em>意図</em>を<em>区別</em>できるときに可能</li>
 	</ul>
 </block>
 </frame>
@@ -202,6 +210,47 @@
 	(理解の選択は、相手が主観的に行うため)<br/>
 	⇒ 強引さを相手に感じさせないことが重要
 </block>
+</frame>
+
+<frame title="\insertsection">
+<multicols>
+<column width="7cm">
+<block title="産経新聞連載「車いすでみるなら」より">
+	<p><em>安全</em>のために<alert>自分の行動を周囲に予測してもらう</alert>ことはとても重要です。
+	手で<em>車いすを漕ぐ場合は、漕ぐ動きで減速や加速が周囲にわかってもらえ</em>ます。
+	漕ぐのをやめれば後ろにいる人は「止まるかも」と予測できますが、<em>電動車いすでは漕ぐ動きがないので、周囲には予測しにくい</em>のです。</p>
+
+	<p>通りかかったお店に寄りたいと思った瞬間、電動車いすは突然に止まることができます。
+	でも、そうすると後ろを歩いている人は驚くでしょう。もしかしたらぶつかってしまうかもしれません。</p>
+
+	<p>止まるときや進路変更をするときは、<alert>後ろの人が認識できる動きで</alert>後方確認をした上で、徐々に減速するように心がけています。</p>
+</block>
+</column>
+<column width="5cm">
+<img src="chair-easy.jpg" scale=".2"/>
+<img src="wheelchair.jpg" scale=".2"/>
+</column>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<block class="example" title="Q.">
+	「自分の行動を周囲に予測してもらう」ために、意識してやっていることは?
+</block>
+</frame>
+
+<frame title="\insertsection">
+<multicols>
+<column width="8cm">
+<block title="高橋みなみ『リーダー論』より">
+<p>スピーチでは「嬉しい」「悔しい」といった<alert>目に見える感情よりも、目に見えないことを言うべき</alert>です。嬉しさや悔しさは、見れば分かるからです。わざわざその言葉を口にして、時間を割くのはもったいない。(中略)</p>
+<p>誤解してほしくないんですが、嬉しさや悔しさの中身、<alert>なぜその感情を抱くに至ったかを説明することは、聞き手にとっても興味のある情報</alert>なんですよ。<em>内面は、目には見えない</em>ものだからです。そもそも目には見えないものが理解できると、人は好奇心を満たされる。その<em>感情を抱くに至った理由を説明してもらえたなら、自分の経験と比較したりして、共感もできる</em>ようになるんです。</p>
+</block>
+</column>
+<column width="4cm">
+<img src="takamina1.jpg" scale=".25"/>
+</column>
+</multicols>
 </frame>
 
 <s h="「風化」">
