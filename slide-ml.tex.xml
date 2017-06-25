@@ -41,6 +41,8 @@
 </frame>
 
 <frame title="\insertsection">
+<multicols>
+<column width="7cm">
 <block title="グラフによる表現(p.132-137)">
 	<ul>
 		<li>棒グラフ<br/>
@@ -49,9 +51,15 @@
 			直線の<em>傾き</em>により、値の<alert>変化</alert>を表現</li>
 		<li>円グラフ・帯グラフ<br/>
 			扇型や長方形の<em>面積</em>により、値の全体に占める<alert>割合</alert>を表現</li>
-		<li mark="※">この関係を歪めるグラフ(例:「<em>3Dグラフ</em>」)は使わない</li>
+		<li mark="※">この関係を歪めるグラフは使わない<br/>
+			(例:「<em>3Dグラフ</em>」)</li>
 	</ul>
 </block>
+</column>
+<column width="5cm">
+<img src="graph.svg" scale=".3"/>
+</column>
+</multicols>
 </frame>
 </s>
 
