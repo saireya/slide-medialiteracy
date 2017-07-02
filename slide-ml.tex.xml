@@ -13,17 +13,14 @@
 <frame title="\insertsection">
 <block class="alert" title="意図">
 	コミュニケーションを行う<em>目的</em><br/>
-	<ul>
-		<li>視点や価値観が偏っていないか?</li>
-		<li><em>印象操作</em>がされていないか?</li>
-	</ul>
 </block>
 
 <block title="意図と表現・理解" class="alert">
-	\[ (\text{情報}) + (\text{意図}) = (\text{表現}) \]
+	<alert>$(\text{情報}) + (\text{意図}) = (\text{表現}) \]$</alert>
 	<ul>
 		<li><alert>表現の選択</alert>で<em>情報</em>にどんな記号・言語を付加するかは、情報の送り手の<em>意図</em>により決まる</li>
 		<li>適切な<alert>理解の選択</alert>は、表現から<em>情報</em>と送り手の<em>意図</em>を<em>区別</em>できるときに可能</li>
+		<li mark="⇨">送り手による<em>視点・価値観の偏り</em>や<em>印象操作</em>がないか、受け手は批判的に吟味すべき</li>
 	</ul>
 </block>
 </frame>
