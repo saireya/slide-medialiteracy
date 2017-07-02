@@ -177,6 +177,13 @@
 <frame title="相関関係と因果関係">
 <img src="baby.jpg" scale=".5"/>
 </frame>
+
+<frame title="相関関係と因果関係">
+<multicols num="2">
+<img src="baby.jpg" scale=".5"/>
+<img src="baby-relation.svg" scale=".5"/>
+</multicols>
+</frame>
 </s>
 
 <s h="介入">
