@@ -8,7 +8,7 @@
 <block class="example" title="Q.">
 	「理解する」とは?
 </block>
-<img src="model-media.svg" scale=".53"/>
+<img src="model-media.svg" scale=".5"/>
 </frame>
 
 <frame title="\insertsection">
@@ -94,7 +94,7 @@
 	</ul>
 </block>
 
-<img src="model-media.svg" scale=".3"/>
+<img src="model-media.svg" scale=".5"/>
 </frame>
 
 <frame title="情報の信憑性">
@@ -175,10 +175,8 @@
 </frame>
 
 <frame title="相関関係と因果関係">
-<multicols num="2">
-<img src="baby.jpg" scale=".5"/>
 <img src="baby-relation.svg" scale=".5"/>
-</multicols>
+<img src="baby.jpg" scale=".4"/>
 </frame>
 </s>
 
