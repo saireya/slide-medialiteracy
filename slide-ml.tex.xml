@@ -17,7 +17,7 @@
 </block>
 
 <block title="意図と表現・理解" class="alert">
-	<alert>$(\text{情報}) + (\text{意図}) = (\text{表現}) \]$</alert>
+	<alert>$(\text{情報}) + (\text{意図}) = (\text{表現})$</alert>
 	<ul>
 		<li><alert>表現の選択</alert>で<em>情報</em>にどんな記号・言語を付加するかは、情報の送り手の<em>意図</em>により決まる</li>
 		<li>適切な<alert>理解の選択</alert>は、表現から<em>情報</em>と送り手の<em>意図</em>を<em>区別</em>できるときに可能</li>
