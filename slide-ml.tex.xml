@@ -31,7 +31,7 @@
 </frame>
 
 <frame title="\insertsection">
-	<img src="fuji.jpg" scale=".25"/>
+	<img src="fuji.jpg" scale=".28"/>
 </frame>
 
 <frame title="\insertsection">
@@ -55,7 +55,7 @@
 </block>
 </column>
 <column width="5cm">
-<img src="graph.svg" scale=".3"/>
+<img src="graph.svg" scale=".35"/>
 </column>
 </multicols>
 </frame>
