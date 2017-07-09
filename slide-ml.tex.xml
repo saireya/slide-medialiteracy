@@ -157,6 +157,7 @@
 		<li><alert>因果関係</alert>: 2つの量の間にある、<em>原因</em>と<em>結果</em>の関係</li>
 	</ul>
 </block>
+<img src="scatterplot.svg" scale=".35"/>
 </frame>
 
 <frame title="相関関係と因果関係">

@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:creation-date>2017-06-25T16:16:45.351079453</meta:creation-date><dc:date>2017-06-25T17:39:52.330482502</dc:date><meta:editing-duration>PT29M58S</meta:editing-duration><meta:editing-cycles>12</meta:editing-cycles><meta:generator>LibreOffice/5.3.4.1$Linux_X86_64 LibreOffice_project/30$Build-1</meta:generator><meta:document-statistic meta:table-count="2" meta:cell-count="16" meta:object-count="4"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">11288</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">23029</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Graph">
+       <config:config-item config:name="CursorPositionX" config:type="int">5</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">8</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">110</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="data">
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">3</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">110</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">Graph</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1305</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">110</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsValueHighlightingEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">1</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">kQH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="IPA Pゴシック" svg:font-family="&apos;IPA Pゴシック&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK JP Regular" svg:font-family="&apos;Noto Sans CJK JP Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="12.5mm"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:language="en" fo:country="US" style:font-name-asian="DejaVu Sans" style:language-asian="ja" style:country-asian="JP" style:font-name-complex="DejaVu Sans" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="3mm" draw:shadow-offset-y="3mm"/>
+   <style:paragraph-properties style:text-autospace="none" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="page" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" fo:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-family-asian="IPA明朝" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="12pt" style:language-asian="ja" style:country-asian="JP" style:font-name-complex="DejaVu Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <style:style style:name="Default" style:family="table-cell">
+   <style:text-properties style:font-name-asian="IPA Pゴシック" style:font-family-asian="&apos;IPA Pゴシック&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Noto Sans CJK JP Regular" style:font-family-complex="&apos;Noto Sans CJK JP Regular&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Heading_20__28_user_29_" style:display-name="Heading (user)" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="24pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="table-cell" style:parent-style-name="Heading_20__28_user_29_">
+   <style:text-properties fo:color="#000000" fo:font-size="18pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="table-cell" style:parent-style-name="Heading_20__28_user_29_">
+   <style:text-properties fo:color="#000000" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Text" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Note" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:background-color="#ffffcc" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #808080"/>
+   <style:text-properties fo:color="#333333" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#808080" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Status" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Good" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ccffcc"/>
+   <style:text-properties fo:color="#006600" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Neutral" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffffcc"/>
+   <style:text-properties fo:color="#996600" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Bad" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffcccc"/>
+   <style:text-properties fo:color="#cc0000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Warning" style:family="table-cell" style:parent-style-name="Status">
+   <style:text-properties fo:color="#cc0000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Error" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#cc0000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Accent" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Accent_20_1" style:display-name="Accent 1" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#000000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Accent_20_2" style:display-name="Accent 2" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#808080"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Accent_20_3" style:display-name="Accent 3" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#dddddd"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="9.67mm"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="13.62mm"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="22.58mm"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="4.52mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="false" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ta2" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr1" style:family="graphic">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:ole-draw-aspect="1"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="210.01mm" fo:page-height="297mm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="6.4mm" fo:margin-bottom="6.4mm" fo:margin-left="6.4mm" fo:margin-right="6.4mm" style:shadow="none" style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="P1" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="12pt"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header style:display="false">
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer style:display="false">
+    <text:p>ページ <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2017-07-09">0000/00/00</text:date>, <text:time style:data-style-name="N2" text:time-value="21:58:19.096063522">00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>ページ <text:page-number>1</text:page-number> / <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
+   <table:table table:name="data" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="3" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>item</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>value1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>value2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>value3</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>a</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30" calcext:value-type="float">
+      <text:p>30</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>b</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="40" calcext:value-type="float">
+      <text:p>40</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="50" calcext:value-type="float">
+      <text:p>50</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20" calcext:value-type="float">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10" calcext:value-type="float">
+      <text:p>10</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="Graph" table:style-name="ta2" table:print-ranges="Graph.A1:Graph.E51">
+    <table:shapes>
+     <draw:frame draw:z-index="0" draw:style-name="gr1" draw:text-style-name="P1" svg:width="100mm" svg:height="57.8mm" svg:x="-0.04mm" svg:y="0.01mm">
+      <loext:p draw:notify-on-update-of-ranges="data.A2:data.A4 data.B1:data.B1 data.B2:data.B4"/>
+      <draw:object>
+       <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:chartooo="http://openoffice.org/2010/chart" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.chart">
+        <office:meta><meta:generator>LibreOffice/5.3.4.1$Linux_X86_64 LibreOffice_project/30$Build-1</meta:generator></office:meta>
+        <office:styles/>
+        <office:automatic-styles>
+         <number:number-style style:name="N0">
+          <number:number number:min-integer-digits="1"/>
+         </number:number-style>
+         <style:style style:name="ch1" style:family="chart">
+          <style:graphic-properties draw:stroke="none"/>
+         </style:style>
+         <style:style style:name="ch2" style:family="chart">
+          <style:chart-properties chart:include-hidden-cells="false" chart:treat-empty-cells="leave-gap" chart:right-angled-axes="true"/>
+         </style:style>
+         <style:style style:name="ch3" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:display-label="true" chart:tick-marks-major-inner="false" chart:tick-marks-major-outer="false" chart:logarithmic="false" chart:origin="1" chart:reverse-direction="false" text:line-break="false" loext:try-staggering-first="false" chart:link-data-style-to-source="true" chart:axis-position="0"/>
+          <style:graphic-properties svg:stroke-color="#b3b3b3"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch4" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:display-label="true" chart:tick-marks-major-inner="false" chart:tick-marks-major-outer="false" chart:logarithmic="false" chart:origin="0" chart:reverse-direction="false" text:line-break="false" loext:try-staggering-first="false" chart:link-data-style-to-source="true" chart:axis-position="1"/>
+          <style:graphic-properties svg:stroke-color="#b3b3b3"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch5" style:family="chart">
+          <style:chart-properties chart:auto-position="true" style:rotation-angle="90"/>
+          <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+         </style:style>
+         <style:style style:name="ch6" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:link-data-style-to-source="true"/>
+          <style:graphic-properties draw:stroke="none" draw:fill-color="#004586" dr3d:edge-rounding="5%"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch7" style:family="chart">
+          <style:graphic-properties svg:stroke-color="#b3b3b3" draw:fill="none" draw:fill-color="#e6e6e6"/>
+         </style:style>
+         <style:style style:name="ch8" style:family="chart">
+          <style:graphic-properties svg:stroke-color="#b3b3b3" draw:fill-color="#cccccc"/>
+         </style:style>
+        </office:automatic-styles>
+        <office:body>
+         <office:chart>
+          <chart:chart svg:width="10.001cm" svg:height="5.781cm" xlink:href=".." xlink:type="simple" chart:class="chart:bar" chart:style-name="ch1">
+           <chart:plot-area chart:style-name="ch2" table:cell-range-address="data.A1:data.B4" chart:data-source-has-labels="both" svg:x="0.635cm" svg:y="0.139cm" svg:width="8.694cm" svg:height="5.55cm">
+            <chartooo:coordinate-region svg:x="1.106cm" svg:y="0.285cm" svg:width="8.223cm" svg:height="5.013cm"/>
+            <chart:axis chart:dimension="x" chart:name="primary-x" chart:style-name="ch3" chartooo:axis-type="auto">
+             <chartooo:date-scale/>
+             <chart:categories table:cell-range-address="data.A2:data.A4"/>
+            </chart:axis>
+            <chart:axis chart:dimension="y" chart:name="primary-y" chart:style-name="ch4">
+             <chart:title svg:x="0.001cm" svg:y="3.368cm" chart:style-name="ch5">
+              <text:p>value</text:p>
+             </chart:title>
+            </chart:axis>
+            <chart:series chart:style-name="ch6" chart:values-cell-range-address="data.B2:data.B4" chart:label-cell-address="data.B1:data.B1" chart:class="chart:bar">
+             <chart:data-point chart:repeated="3"/>
+            </chart:series>
+            <chart:wall chart:style-name="ch7"/>
+            <chart:floor chart:style-name="ch8"/>
+           </chart:plot-area>
+           <table:table table:name="local-table">
+            <table:table-header-columns>
+             <table:table-column/>
+            </table:table-header-columns>
+            <table:table-columns>
+             <table:table-column/>
+            </table:table-columns>
+            <table:table-header-rows>
+             <table:table-row>
+              <table:table-cell>
+               <text:p/>
+              </table:table-cell>
+              <table:table-cell office:value-type="string">
+               <text:p>value1</text:p>
+               <draw:g>
+                <svg:desc>data.B1:data.B1</svg:desc></draw:g>
+              </table:table-cell>
+             </table:table-row>
+            </table:table-header-rows>
+            <table:table-rows>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>a</text:p>
+               <draw:g>
+                <svg:desc>data.A2:data.A4</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="10">
+               <text:p>10</text:p>
+               <draw:g>
+                <svg:desc>data.B2:data.B4</svg:desc></draw:g>
+              </table:table-cell>
+             </table:table-row>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>b</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="40">
+               <text:p>40</text:p>
+              </table:table-cell>
+             </table:table-row>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>c</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="50">
+               <text:p>50</text:p>
+              </table:table-cell>
+             </table:table-row>
+            </table:table-rows>
+           </table:table>
+          </chart:chart>
+         </office:chart>
+        </office:body>
+       </office:document>
+      </draw:object><draw:image>
+       <office:binary-data>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
+        FgBYVEVYVF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
+        dGlvbiBTYW5zAAAAAAAAYQEAAP//AAACAAUAAAAAAAAAEQQAAAAAAAAAAAD/AwAAAAAAiAAB
+        AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAALoeAAADFgAAAQAAAGMA
+        AAABAAEAAAC5AAAAAQBjAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBY
+        VEVYVF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABY
+        VEVYVF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVf
+        QkVHSU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAABhAQAA
+        //8AAAIABQAAAAAAAAARBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
+        AIYAAQAEAAAAAAAAAHEAAgAeAAAANQMAAA8VAAABAAAAMAAAAAEAAQAAALkAAAABADAAAAIB
+        ABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAAAAAAAAIB
+        ABMAAAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hBUEVfRU5E
+        AAAAAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigABAEEA
+        AAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAGEBAAD//wAAAgAFAAAAAAAAABEEAAAA
+        AAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQACACYA
+        AAB8AgAAyxEAAAIAAAAxADAAAAACAAIAAAC5AAAAcgEAAAIAMQAwAAACAQATAAAACQBYVEVY
+        VF9FT0MAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0MBAAAAAAAAAAACAQATAAAACQBYVEVY
+        VF9FT0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABYVEVY
+        VF9QQUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVfQkVH
+        SU4AAAAAAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAABhAQAA//8A
+        AAIABQAAAAAAAAARBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+        AQAEAAAAAAAAAHEAAgAmAAAAfAIAAIgOAAACAAAAMgAwAAAAAgACAAAAuQAAAHIBAAACADIA
+        MAAAAgEAEwAAAAkAWFRFWFRfRU9DAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9DAQAAAAAA
+        AAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9QAAAAAAAA
+        AAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAAFgBYVEVY
+        VF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBT
+        YW5zAAAAAAAAYQEAAP//AAACAAUAAAAAAAAAEQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAAB
+        AIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAJgAAAHwCAABECwAAAgAAADMAMAAAAAIA
+        AgAAALkAAAByAQAAAgAzADAAAAIBABMAAAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJ
+        AFhURVhUX0VPQwEAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAAAAAAAAIBABMAAAAJ
+        AFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hBUEVfRU5EAAAAAAAA
+        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
+       </office:binary-data>
+      </draw:image>
+     </draw:frame>
+     <draw:frame draw:z-index="1" draw:style-name="gr1" draw:text-style-name="P1" svg:width="100mm" svg:height="56.2mm" svg:x="0.12mm" svg:y="58.01mm">
+      <loext:p draw:notify-on-update-of-ranges="data.A2:data.A4 data.B1:data.B1 data.B2:data.B4 data.C1:data.C1 data.C2:data.C4 data.D1:data.D1 data.D2:data.D4"/>
+      <draw:object>
+       <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:chartooo="http://openoffice.org/2010/chart" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.chart">
+        <office:meta><meta:generator>LibreOffice/5.3.4.1$Linux_X86_64 LibreOffice_project/30$Build-1</meta:generator></office:meta>
+        <office:styles/>
+        <office:automatic-styles>
+         <number:number-style style:name="N0">
+          <number:number number:min-integer-digits="1"/>
+         </number:number-style>
+         <style:style style:name="ch1" style:family="chart">
+          <style:graphic-properties draw:stroke="none"/>
+         </style:style>
+         <style:style style:name="ch2" style:family="chart">
+          <style:chart-properties chart:symbol-type="automatic" chart:include-hidden-cells="false" chart:treat-empty-cells="leave-gap" chart:right-angled-axes="true"/>
+         </style:style>
+         <style:style style:name="ch3" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:display-label="true" chart:tick-marks-major-inner="false" chart:tick-marks-major-outer="false" chart:logarithmic="false" chart:reverse-direction="false" text:line-break="false" loext:try-staggering-first="false" chart:link-data-style-to-source="true" chart:axis-position="0"/>
+          <style:graphic-properties svg:stroke-color="#b3b3b3"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch4" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:display-label="true" chart:tick-marks-major-inner="false" chart:tick-marks-major-outer="false" chart:logarithmic="false" chart:origin="0" chart:reverse-direction="false" text:line-break="false" loext:try-staggering-first="false" chart:link-data-style-to-source="true" chart:axis-position="1"/>
+          <style:graphic-properties svg:stroke-color="#b3b3b3"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch5" style:family="chart">
+          <style:chart-properties chart:auto-position="true" style:rotation-angle="90"/>
+          <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+         </style:style>
+         <style:style style:name="ch6" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:symbol-type="named-symbol" chart:symbol-name="square" chart:symbol-width="0.25cm" chart:symbol-height="0.25cm" chart:link-data-style-to-source="true"/>
+          <style:graphic-properties svg:stroke-width="0.08cm" svg:stroke-color="#004586" draw:fill-color="#004586" dr3d:edge-rounding="5%"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch7" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:symbol-type="named-symbol" chart:symbol-name="diamond" chart:symbol-width="0.25cm" chart:symbol-height="0.25cm" chart:link-data-style-to-source="true"/>
+          <style:graphic-properties svg:stroke-width="0.08cm" svg:stroke-color="#ff420e" draw:fill-color="#ff420e" dr3d:edge-rounding="5%"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch8" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:symbol-type="named-symbol" chart:symbol-name="arrow-down" chart:symbol-width="0.25cm" chart:symbol-height="0.25cm" chart:link-data-style-to-source="true"/>
+          <style:graphic-properties svg:stroke-width="0.08cm" svg:stroke-color="#ffd320" draw:fill-color="#ffd320" dr3d:edge-rounding="5%"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch9" style:family="chart">
+          <style:graphic-properties svg:stroke-color="#b3b3b3" draw:fill="none" draw:fill-color="#e6e6e6"/>
+         </style:style>
+         <style:style style:name="ch10" style:family="chart">
+          <style:graphic-properties svg:stroke-color="#b3b3b3" draw:fill-color="#cccccc"/>
+         </style:style>
+        </office:automatic-styles>
+        <office:body>
+         <office:chart>
+          <chart:chart svg:width="10.001cm" svg:height="5.621cm" xlink:href=".." xlink:type="simple" chart:class="chart:line" chart:style-name="ch1">
+           <chart:plot-area chart:style-name="ch2" table:cell-range-address="data.A1:data.D4" chart:data-source-has-labels="both" svg:x="0.589cm" svg:y="0.057cm" svg:width="8.777cm" svg:height="5.597cm">
+            <chartooo:coordinate-region svg:x="1.06cm" svg:y="0.203cm" svg:width="8.212cm" svg:height="5.06cm"/>
+            <chart:axis chart:dimension="x" chart:name="primary-x" chart:style-name="ch3" chartooo:axis-type="auto">
+             <chartooo:date-scale/>
+             <chart:categories table:cell-range-address="data.A2:data.A4"/>
+            </chart:axis>
+            <chart:axis chart:dimension="y" chart:name="primary-y" chart:style-name="ch4">
+             <chart:title svg:x="0.001cm" svg:y="3.309cm" chart:style-name="ch5">
+              <text:p>value</text:p>
+             </chart:title>
+            </chart:axis>
+            <chart:series chart:style-name="ch6" chart:values-cell-range-address="data.B2:data.B4" chart:label-cell-address="data.B1:data.B1" chart:class="chart:line">
+             <chart:data-point chart:repeated="3"/>
+            </chart:series>
+            <chart:series chart:style-name="ch7" chart:values-cell-range-address="data.C2:data.C4" chart:label-cell-address="data.C1:data.C1" chart:class="chart:line">
+             <chart:data-point chart:repeated="3"/>
+            </chart:series>
+            <chart:series chart:style-name="ch8" chart:values-cell-range-address="data.D2:data.D4" chart:label-cell-address="data.D1:data.D1" chart:class="chart:line">
+             <chart:data-point chart:repeated="3"/>
+            </chart:series>
+            <chart:wall chart:style-name="ch9"/>
+            <chart:floor chart:style-name="ch10"/>
+           </chart:plot-area>
+           <table:table table:name="local-table">
+            <table:table-header-columns>
+             <table:table-column/>
+            </table:table-header-columns>
+            <table:table-columns>
+             <table:table-column table:number-columns-repeated="3"/>
+            </table:table-columns>
+            <table:table-header-rows>
+             <table:table-row>
+              <table:table-cell>
+               <text:p/>
+              </table:table-cell>
+              <table:table-cell office:value-type="string">
+               <text:p>value1</text:p>
+               <draw:g>
+                <svg:desc>data.B1:data.B1</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="string">
+               <text:p>value2</text:p>
+               <draw:g>
+                <svg:desc>data.C1:data.C1</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="string">
+               <text:p>value3</text:p>
+               <draw:g>
+                <svg:desc>data.D1:data.D1</svg:desc></draw:g>
+              </table:table-cell>
+             </table:table-row>
+            </table:table-header-rows>
+            <table:table-rows>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>a</text:p>
+               <draw:g>
+                <svg:desc>data.A2:data.A4</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="10">
+               <text:p>10</text:p>
+               <draw:g>
+                <svg:desc>data.B2:data.B4</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="20">
+               <text:p>20</text:p>
+               <draw:g>
+                <svg:desc>data.C2:data.C4</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="30">
+               <text:p>30</text:p>
+               <draw:g>
+                <svg:desc>data.D2:data.D4</svg:desc></draw:g>
+              </table:table-cell>
+             </table:table-row>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>b</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="40">
+               <text:p>40</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="10">
+               <text:p>10</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="20">
+               <text:p>20</text:p>
+              </table:table-cell>
+             </table:table-row>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>c</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="50">
+               <text:p>50</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="20">
+               <text:p>20</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="10">
+               <text:p>10</text:p>
+              </table:table-cell>
+             </table:table-row>
+            </table:table-rows>
+           </table:table>
+          </chart:chart>
+         </office:chart>
+        </office:body>
+       </office:document>
+      </draw:object><draw:image>
+       <office:binary-data>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
+        /wCGAAEABAAAAAAAAABxAAIAHgAAANwjAADgFQAAAQAAAGMAAAABAAEAAAC5AAAAAQBjAAAC
+        AQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAAC
+        AQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VO
+        RAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVfQkVHSU4AAAAAAAAAAIoAAQBB
+        AAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAABhAQAA//8AAAIABQAAAAAAAAARBAAA
+        AAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHEAAgAe
+        AAAABwMAAOwUAAABAAAAMAAAAAEAAQAAALkAAAABADAAAAIBABMAAAAJAFhURVhUX0VPQwAA
+        AAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPUAAA
+        AAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hBUEVfRU5EAAAAAAAAAAAAAgEAIAAAABYA
+        WFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigABAEEAAAADADsAAAAPAExpYmVyYXRp
+        b24gU2FucwAAAAAAAGEBAAD//wAAAgAFAAAAAAAAABEEAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+        AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQACACYAAABOAgAAoBEAAAIAAAAxADAA
+        AAACAAIAAAC5AAAAcgEAAAIAMQAwAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQAT
+        AAAACQBYVEVYVF9FT0MBAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT0wAAAAAAAAAAAACAQAT
+        AAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABYVEVYVF9QQUlOVFNIQVBFX0VORAAA
+        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
+        AAAAAIwAAQAAAAAA
+       </office:binary-data>
+      </draw:image>
+     </draw:frame>
+     <draw:frame draw:z-index="2" draw:style-name="gr1" draw:text-style-name="P1" svg:width="100mm" svg:height="56.2mm" svg:x="0mm" svg:y="114.01mm">
+      <loext:p draw:notify-on-update-of-ranges="data.A2:data.A4 data.B1:data.B1 data.B2:data.B4"/>
+      <draw:object>
+       <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:chartooo="http://openoffice.org/2010/chart" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.chart">
+        <office:meta><meta:generator>LibreOffice/5.3.4.1$Linux_X86_64 LibreOffice_project/30$Build-1</meta:generator></office:meta>
+        <office:styles/>
+        <office:automatic-styles>
+         <number:number-style style:name="N0">
+          <number:number number:min-integer-digits="1"/>
+         </number:number-style>
+         <style:style style:name="ch1" style:family="chart">
+          <style:graphic-properties draw:stroke="none"/>
+         </style:style>
+         <style:style style:name="ch2" style:family="chart">
+          <style:graphic-properties draw:stroke="none" svg:stroke-color="#b3b3b3" draw:fill="none" draw:fill-color="#e6e6e6"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch3" style:family="chart">
+          <style:chart-properties chart:include-hidden-cells="false" chart:right-angled-axes="true"/>
+         </style:style>
+         <style:style style:name="ch4" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:display-label="true" chart:logarithmic="false" chart:reverse-direction="true" text:line-break="false" loext:try-staggering-first="false" chart:link-data-style-to-source="true" chart:axis-position="0"/>
+          <style:graphic-properties svg:stroke-color="#b3b3b3"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch5" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:display-label="true" chart:logarithmic="false" chart:reverse-direction="false" text:line-break="false" loext:try-staggering-first="false" chart:link-data-style-to-source="true" chart:axis-position="0"/>
+          <style:graphic-properties svg:stroke-color="#b3b3b3"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch6" style:family="chart">
+          <style:graphic-properties svg:stroke-color="#b3b3b3"/>
+         </style:style>
+         <style:style style:name="ch7" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:link-data-style-to-source="true"/>
+          <style:graphic-properties draw:stroke="none" draw:fill-color="#004586" dr3d:edge-rounding="5%"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch8" style:family="chart">
+          <style:chart-properties chart:solid-type="cuboid"/>
+          <style:graphic-properties draw:fill-color="#004586"/>
+         </style:style>
+         <style:style style:name="ch9" style:family="chart">
+          <style:chart-properties chart:solid-type="cuboid"/>
+          <style:graphic-properties draw:fill-color="#ff420e"/>
+         </style:style>
+         <style:style style:name="ch10" style:family="chart">
+          <style:chart-properties chart:solid-type="cuboid"/>
+          <style:graphic-properties draw:fill-color="#ffd320"/>
+         </style:style>
+         <style:style style:name="ch11" style:family="chart">
+          <style:graphic-properties draw:stroke="solid" svg:stroke-color="#b3b3b3" draw:fill="none" draw:fill-color="#e6e6e6"/>
+         </style:style>
+         <style:style style:name="ch12" style:family="chart">
+          <style:graphic-properties svg:stroke-color="#b3b3b3" draw:fill-color="#cccccc"/>
+         </style:style>
+        </office:automatic-styles>
+        <office:body>
+         <office:chart>
+          <chart:chart svg:width="10.001cm" svg:height="5.621cm" xlink:href=".." xlink:type="simple" chart:class="chart:circle" chart:style-name="ch1">
+           <chart:legend svg:x="8.314cm" svg:y="2.193cm" style:legend-expansion="custom" chartooo:width="0.456cm" chartooo:height="1.229cm" style:legend-expansion-aspect-ratio="0.371033360455655" chart:style-name="ch2"/>
+           <chart:plot-area chart:style-name="ch3" table:cell-range-address="data.A1:data.B4" chart:data-source-has-labels="both" svg:x="2.566cm" svg:y="0.223cm" svg:width="5.394cm" svg:height="5.395cm">
+            <chartooo:coordinate-region svg:x="2.564cm" svg:y="0.224cm" svg:width="5.399cm" svg:height="5.394cm"/>
+            <chart:axis chart:dimension="x" chart:name="primary-x" chart:style-name="ch4" chartooo:axis-type="auto">
+             <chartooo:date-scale/>
+             <chart:categories table:cell-range-address="data.A2:data.A4"/>
+            </chart:axis>
+            <chart:axis chart:dimension="y" chart:name="primary-y" chart:style-name="ch5">
+             <chart:grid chart:style-name="ch6" chart:class="major"/>
+            </chart:axis>
+            <chart:series chart:style-name="ch7" chart:values-cell-range-address="data.B2:data.B4" chart:label-cell-address="data.B1:data.B1" chart:class="chart:circle">
+             <chart:data-point chart:style-name="ch8"/>
+             <chart:data-point chart:style-name="ch9"/>
+             <chart:data-point chart:style-name="ch10"/>
+            </chart:series>
+            <chart:wall chart:style-name="ch11"/>
+            <chart:floor chart:style-name="ch12"/>
+           </chart:plot-area>
+           <table:table table:name="local-table">
+            <table:table-header-columns>
+             <table:table-column/>
+            </table:table-header-columns>
+            <table:table-columns>
+             <table:table-column/>
+            </table:table-columns>
+            <table:table-header-rows>
+             <table:table-row>
+              <table:table-cell>
+               <text:p/>
+              </table:table-cell>
+              <table:table-cell office:value-type="string">
+               <text:p>value1</text:p>
+               <draw:g>
+                <svg:desc>data.B1:data.B1</svg:desc></draw:g>
+              </table:table-cell>
+             </table:table-row>
+            </table:table-header-rows>
+            <table:table-rows>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>a</text:p>
+               <draw:g>
+                <svg:desc>data.A2:data.A4</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="10">
+               <text:p>10</text:p>
+               <draw:g>
+                <svg:desc>data.B2:data.B4</svg:desc></draw:g>
+              </table:table-cell>
+             </table:table-row>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>b</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="40">
+               <text:p>40</text:p>
+              </table:table-cell>
+             </table:table-row>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>c</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="50">
+               <text:p>50</text:p>
+              </table:table-cell>
+             </table:table-row>
+            </table:table-rows>
+           </table:table>
+          </chart:chart>
+         </office:chart>
+        </office:body>
+       </office:document>
+      </draw:object><draw:image>
+       <office:binary-data>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
+       </office:binary-data>
+      </draw:image>
+     </draw:frame>
+     <draw:frame draw:z-index="3" draw:style-name="gr1" draw:text-style-name="P1" svg:width="100mm" svg:height="56.2mm" svg:x="0.12mm" svg:y="170.01mm">
+      <loext:p draw:notify-on-update-of-ranges="data.A2:data.A4 data.B1:data.B1 data.B2:data.B4 data.C1:data.C1 data.C2:data.C4 data.D1:data.D1 data.D2:data.D4"/>
+      <draw:object>
+       <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:chartooo="http://openoffice.org/2010/chart" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.chart">
+        <office:meta><meta:generator>LibreOffice/5.3.4.1$Linux_X86_64 LibreOffice_project/30$Build-1</meta:generator></office:meta>
+        <office:styles/>
+        <office:automatic-styles>
+         <number:number-style style:name="N0">
+          <number:number number:min-integer-digits="1"/>
+         </number:number-style>
+         <number:percentage-style style:name="N10010" number:language="ja" number:country="JP">
+          <number:number number:decimal-places="0" loext:min-decimal-places="0" number:min-integer-digits="1"/>
+          <number:text>%</number:text>
+         </number:percentage-style>
+         <style:style style:name="ch1" style:family="chart">
+          <style:graphic-properties draw:stroke="none"/>
+         </style:style>
+         <style:style style:name="ch2" style:family="chart">
+          <style:chart-properties chart:percentage="true" chart:symbol-type="automatic" chart:vertical="true" chart:include-hidden-cells="false" chart:auto-position="true" chart:auto-size="true" chart:treat-empty-cells="leave-gap" chart:right-angled-axes="true"/>
+         </style:style>
+         <style:style style:name="ch3" style:family="chart" style:data-style-name="N0">
+          <style:chart-properties chart:display-label="true" chart:tick-marks-major-inner="false" chart:tick-marks-major-outer="false" chart:logarithmic="false" chart:origin="1" chart:reverse-direction="false" text:line-break="false" loext:try-staggering-first="false" chart:link-data-style-to-source="true" chart:axis-position="0"/>
+          <style:graphic-properties svg:stroke-color="#b3b3b3"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch4" style:family="chart" style:data-style-name="N10010">
+          <style:chart-properties chart:display-label="true" chart:tick-marks-major-inner="false" chart:tick-marks-major-outer="false" chart:logarithmic="false" chart:origin="0" chart:interval-major="0.2" chart:reverse-direction="false" text:line-break="false" loext:try-staggering-first="false" chart:link-data-style-to-source="true" chart:axis-position="1"/>
+          <style:graphic-properties svg:stroke-color="#b3b3b3"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch5" style:family="chart" style:data-style-name="N10010">
+          <style:chart-properties chart:symbol-type="named-symbol" chart:symbol-name="square" chart:symbol-width="0.25cm" chart:symbol-height="0.25cm" chart:link-data-style-to-source="true" chart:pie-offset="50"/>
+          <style:graphic-properties draw:stroke="none" draw:fill-color="#004586" dr3d:edge-rounding="5%"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch6" style:family="chart" style:data-style-name="N10010">
+          <style:chart-properties chart:symbol-type="named-symbol" chart:symbol-name="diamond" chart:symbol-width="0.25cm" chart:symbol-height="0.25cm" chart:link-data-style-to-source="true"/>
+          <style:graphic-properties draw:stroke="none" draw:fill-color="#ff420e" dr3d:edge-rounding="5%"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch7" style:family="chart" style:data-style-name="N10010">
+          <style:chart-properties chart:symbol-type="named-symbol" chart:symbol-name="arrow-down" chart:symbol-width="0.25cm" chart:symbol-height="0.25cm" chart:link-data-style-to-source="true"/>
+          <style:graphic-properties draw:stroke="none" draw:fill-color="#ffd320"/>
+          <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+         </style:style>
+         <style:style style:name="ch8" style:family="chart">
+          <style:graphic-properties svg:stroke-color="#b3b3b3" draw:fill="none" draw:fill-color="#e6e6e6"/>
+         </style:style>
+         <style:style style:name="ch9" style:family="chart">
+          <style:graphic-properties svg:stroke-color="#b3b3b3" draw:fill-color="#cccccc"/>
+         </style:style>
+        </office:automatic-styles>
+        <office:body>
+         <office:chart>
+          <chart:chart svg:width="10.001cm" svg:height="5.621cm" xlink:href=".." xlink:type="simple" chart:class="chart:bar" chart:style-name="ch1">
+           <chart:plot-area chart:style-name="ch2" table:cell-range-address="data.A1:data.D4" chart:data-source-has-labels="both" svg:x="0.2cm" svg:y="0.112cm" svg:width="9.601cm" svg:height="5.397cm">
+            <chartooo:coordinate-region svg:x="0.486cm" svg:y="0.112cm" svg:width="8.877cm" svg:height="5.006cm"/>
+            <chart:axis chart:dimension="x" chart:name="primary-x" chart:style-name="ch3" chartooo:axis-type="auto">
+             <chartooo:date-scale/>
+             <chart:categories table:cell-range-address="data.A2:data.A4"/>
+            </chart:axis>
+            <chart:axis chart:dimension="y" chart:name="primary-y" chart:style-name="ch4"/>
+            <chart:series chart:style-name="ch5" chart:values-cell-range-address="data.B2:data.B4" chart:label-cell-address="data.B1:data.B1" chart:class="chart:bar">
+             <chart:data-point chart:repeated="3"/>
+            </chart:series>
+            <chart:series chart:style-name="ch6" chart:values-cell-range-address="data.C2:data.C4" chart:label-cell-address="data.C1:data.C1" chart:class="chart:bar">
+             <chart:data-point chart:repeated="3"/>
+            </chart:series>
+            <chart:series chart:style-name="ch7" chart:values-cell-range-address="data.D2:data.D4" chart:label-cell-address="data.D1:data.D1" chart:class="chart:bar">
+             <chart:data-point chart:repeated="3"/>
+            </chart:series>
+            <chart:wall chart:style-name="ch8"/>
+            <chart:floor chart:style-name="ch9"/>
+           </chart:plot-area>
+           <table:table table:name="local-table">
+            <table:table-header-columns>
+             <table:table-column/>
+            </table:table-header-columns>
+            <table:table-columns>
+             <table:table-column table:number-columns-repeated="3"/>
+            </table:table-columns>
+            <table:table-header-rows>
+             <table:table-row>
+              <table:table-cell>
+               <text:p/>
+              </table:table-cell>
+              <table:table-cell office:value-type="string">
+               <text:p>value1</text:p>
+               <draw:g>
+                <svg:desc>data.B1:data.B1</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="string">
+               <text:p>value2</text:p>
+               <draw:g>
+                <svg:desc>data.C1:data.C1</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="string">
+               <text:p>value3</text:p>
+               <draw:g>
+                <svg:desc>data.D1:data.D1</svg:desc></draw:g>
+              </table:table-cell>
+             </table:table-row>
+            </table:table-header-rows>
+            <table:table-rows>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>a</text:p>
+               <draw:g>
+                <svg:desc>data.A2:data.A4</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="10">
+               <text:p>10</text:p>
+               <draw:g>
+                <svg:desc>data.B2:data.B4</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="20">
+               <text:p>20</text:p>
+               <draw:g>
+                <svg:desc>data.C2:data.C4</svg:desc></draw:g>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="30">
+               <text:p>30</text:p>
+               <draw:g>
+                <svg:desc>data.D2:data.D4</svg:desc></draw:g>
+              </table:table-cell>
+             </table:table-row>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>b</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="40">
+               <text:p>40</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="10">
+               <text:p>10</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="20">
+               <text:p>20</text:p>
+              </table:table-cell>
+             </table:table-row>
+             <table:table-row>
+              <table:table-cell office:value-type="string">
+               <text:p>c</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="50">
+               <text:p>50</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="20">
+               <text:p>20</text:p>
+              </table:table-cell>
+              <table:table-cell office:value-type="float" office:value="10">
+               <text:p>10</text:p>
+              </table:table-cell>
+             </table:table-row>
+            </table:table-rows>
+           </table:table>
+          </chart:chart>
+         </office:chart>
+        </office:body>
+       </office:document>
+      </draw:object><draw:image>
+       <office:binary-data>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
+        AQAEAAAAAAAAAHEAAgAeAAAAyQAAABgRAAABAAAAYQAAAAEAAQAAALkAAAABAGEAAAIBABMA
+        AAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAAAAAAAAIBABMA
+        AAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hBUEVfRU5EAAAA
+        AAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAAAAAAAAAAigABAEEAAAAD
+        ADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAGEBAAD//wAAAgAFAAAAAAAAABEEAAAAAAAA
+        AAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcQACAB4AAADJ
+        AAAAkwoAAAEAAABiAAAAAQABAAAAuQAAAAEAYgAAAgEAEwAAAAkAWFRFWFRfRU9DAAAAAAAA
+        AAAAAgEAEwAAAAkAWFRFWFRfRU9MAAAAAAAAAAAAAgEAEwAAAAkAWFRFWFRfRU9QAAAAAAAA
+        AAAAAgEAHgAAABQAWFRFWFRfUEFJTlRTSEFQRV9FTkQAAAAAAAAAAAACAQAgAAAAFgBYVEVY
+        VF9QQUlOVFNIQVBFX0JFR0lOAAAAAAAAAACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBT
+        YW5zAAAAAAAAYQEAAP//AAACAAUAAAAAAAAAEQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAAB
+        AIcAAQAFAAAA/////wCGAAEABAAAAAAAAABxAAIAHgAAAMkAAAAPBAAAAQAAAGMAAAABAAEA
+        AAC5AAAAAQBjAAACAQATAAAACQBYVEVYVF9FT0MAAAAAAAAAAAACAQATAAAACQBYVEVYVF9F
+        T0wAAAAAAAAAAAACAQATAAAACQBYVEVYVF9FT1AAAAAAAAAAAAACAQAeAAAAFABYVEVYVF9Q
+        QUlOVFNIQVBFX0VORAAAAAAAAAAAAAIBACAAAAAWAFhURVhUX1BBSU5UU0hBUEVfQkVHSU4A
+        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
+        ABAnAAACAACMAAEAAAAAAIwAAQAAAAAA
+       </office:binary-data>
+      </draw:image>
+     </draw:frame></table:shapes>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
