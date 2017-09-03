@@ -263,9 +263,6 @@
 </frame>
 
 <frame title="\insertsubsection">
-<block class="example" title="Q1.">
-	石碑1が「<em>風化</em>」したのはなぜか?
-</block>
 <multicols num="2">
 <block title="大津浪記念碑(岩手県大槌町)碑文">
 	昭和八年三月三日<br/>
@@ -295,6 +292,23 @@
 	幾歳経るとも要心おせ
 </block>
 <img src="sekihi-aneyoshi-small.jpg" scale=".4"/>
+</multicols>
+</frame>
+
+<frame title="\insertsubsection">
+<block class="example" title="Q1.">
+	石碑1が「<em>風化</em>」したのはなぜか?
+</block>
+<multicols num="2">
+<block title="大津浪記念碑(岩手県大槌町)碑文">
+	昭和八年三月三日<br/>
+	大津波記念碑<br/>
+	<cmd name="vspace"><parm>1em</parm></cmd>
+	一、地震があったら津波の用心せよ<br/>
+	一、津波が来たら高い所へ逃げよ<br/>
+	一、危険地帯に住居をするな
+</block>
+<img src="sekihi.jpg" scale=".4"/>
 </multicols>
 </frame>
 
